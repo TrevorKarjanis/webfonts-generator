@@ -1,3 +1,5 @@
+This is a fork of [sunflowerdeath/webfonts-generator](https://github.com/sunflowerdeath/webfonts-generator) that updates the dependencies.
+
 # webfonts-generator
 
 
